@@ -1,16 +1,6 @@
-# quizme
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 style="color:green;">Quize Me</h1>
+<p>is a flutter application project against the task given by codeAlpha</p>
+<a href="https://devmavi965.github.io">Visit My Portfolio </a>
+<img src="https://devmavi965.github.io/img/mypic.jpg" width="100px" height="100px">
+<br><h3>Ameer Muawiya</h3>
+<br><b>codeAlpha batch nov25-jan26</b>
